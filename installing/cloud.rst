@@ -5,7 +5,7 @@ Berikut ini adlaah panduan tahap demi tahap untuk membantu menginstal NodeBB men
 
 .. catatan::
 
-    Jika penyedia PaaS pilihan kamu tidak ada di sini, silakan meminta panduannya di `komunitas <https://community.nodebb.org>` kami_ atau justru lebih bagus jika kamu mengirimnya ke sini.
+    Jika penyedia PaaS pilihan kamu tidak ada di sini, silakan meminta panduannya di `komunitas <https://community.nodebb.org>` kami _ atau justru lebih bagus jika kamu mengirimnya ke sini.
 
 
 
