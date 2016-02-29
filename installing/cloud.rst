@@ -1,11 +1,11 @@
-Installing NodeBB on the Cloud
-==============================
+Instalasi NodeBB dalam Cloud
+============================
 
-The following are step-by-step guides to help you get up and running on the cloud using popular PaaS solutions.
+Berikut ini adlaah panduan tahap demi tahap untuk membantu menginstal NodeBB menggunakan solusi PaaS yang umum.
 
-.. note::
+.. catatan::
 
-    If the PaaS solution of your choice is not listed here, please feel free to request a guide on our `community <https://community.nodebb.org>`_ or even better yet, submit one here.
+    Jika penyedia PaaS pilihan kamu tidak ada di sini, silakan meminta panduannya di `komunitas <https://community.nodebb.org>` kami_ atau justru lebih bagus jika kamu mengirimnya ke sini.
 
 
 
@@ -19,11 +19,11 @@ The following are step-by-step guides to help you get up and running on the clou
     Openshift <cloud/openshift>
     Koding <cloud/koding>
 
-* `Cloud9 <https://community.nodebb.org/topic/7983/setting-up-nodebb-on-cloud-9>`_ (external)
+* `Cloud9 <https://community.nodebb.org/topic/7983/setting-up-nodebb-on-cloud-9>`_ (eksternal)
 * :doc:`Heroku <cloud/heroku>`
 * :doc:`Nitrous.IO <cloud/nitrous>`
 * :doc:`Openshift <cloud/openshift>`
-* `Digital Ocean <http://burnaftercompiling.com/nodebb/setting-up-a-nodebb-forum-for-dummies/>`_ (external)
+* `Digital Ocean <http://burnaftercompiling.com/nodebb/setting-up-a-nodebb-forum-for-dummies/>`_ (eksternal)
 * :doc:`Koding.com <cloud/koding>`
-* `Codio <https://codio.com/docs/ide/tutorials/nodebb/>`_ (external)
-* `Jelastic <http://docs.jelastic.com/nodebb>`_ (external)
+* `Codio <https://codio.com/docs/ide/tutorials/nodebb/>`_ (eksternal)
+* `Jelastic <http://docs.jelastic.com/nodebb>`_ (eksternal)
