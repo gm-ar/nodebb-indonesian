@@ -1,4 +1,4 @@
-Installing NodeBB with Docker
+Instalasi NodeBB dengan Docker
 ==============================
 
 The following are step-by-step guides to help you get up and running on the cloud using popular the Docker platform. For 
