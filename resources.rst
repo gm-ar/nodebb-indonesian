@@ -2,7 +2,7 @@ Sumber-sumber Pengembang
 ========================
 
 
-.. note::
+.. catatan::
 
 	Bagian ini masih dalam pengerjaan.
 
@@ -34,7 +34,7 @@ Debugging
 
 * Memulai NodeBB dalam mode pengembangan: (dari direktori root NodeBB): ``./nodebb dev``
 
-  * Ini akan menjalankan NodeBB hanay dengan satu fork sehingga tidak ada error ``EADDRINUSE``
+  * Ini akan menjalankan NodeBB hanya dengan satu fork sehingga tidak ada error ``EADDRINUSE``
 
 * Dari terminal baru, jalankan ``node-inspector &`` (dijalankan lewat proses di belakang, jadi jika ada yang tidak beres, bisa menggunakan ``ps aux | grep node-inspector`` untuk melihat pid-nya dan menghentikannya/kill)
 
