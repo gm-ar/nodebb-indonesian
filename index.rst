@@ -1,16 +1,16 @@
 .. image:: https://i.imgur.com/3yj1n6N.png
 
 |
-**NodeBB** is a next-generation discussion platform that utilizes web sockets for instant interactions and real-time notifications. NodeBB forums have many modern features out of the box such as social network integration and streaming discussions.
+**NodeBB** adalah wahana diskusi generasi baru yang menggunakan web scoket untuk interaksi instan dan notifikasi seketika. Forum NodeBB memiliki banyak fitur modern seperti integrasi jejaring sosial dan diskusi streaming.
 
-NodeBB is an open source project which can be forked on `GitHub <https://github.com/NodeBB/NodeBB/>`_. Don't forget to check out the ways that you can help contribute to this project, from translations, pull requests, and telling your friends.
+NodeBB merupakan proyek open source dan bisa di-fork dari `GitHub <https://github.com/NodeBB/NodeBB/>`_. Jangan lupa untuk checkout supaya kamu juga bisa ikut berkontribusi dalam proyek ini, mulai dari penerjemahan, pull requests, atau sekedar memberi tahu teman.
 
-Table of Contents
+Daftar isi
 =================
 
 .. _installing:
 
-Installing NodeBB
+Instalasi NodeBB
 -----------------
 
 .. toctree::
@@ -23,7 +23,7 @@ Installing NodeBB
 
 .. _configuring:
 
-Configuring NodeBB
+Konifgurasi NodeBB
 ------------------
 
 .. toctree::
@@ -33,7 +33,7 @@ Configuring NodeBB
     configuring/databases
     configuring/proxies
 
-Running NodeBB
+Menjalankan NodeBB
 ------------------
 
 .. toctree::
@@ -41,16 +41,16 @@ Running NodeBB
 
     running/index
 
-Upgrading NodeBB
-------------------
+Meng-upgrade NodeBB
+-------------------
 
 .. toctree::
     :maxdepth: 2
 
     upgrading/index
 
-Administrating NodeBB
----------------------
+Mengelola NodeBB
+----------------
 
 .. toctree::
     :maxdepth: 2
@@ -67,8 +67,8 @@ Scaling NodeBB
 
     scaling/index
 
-Contributing to NodeBB
-----------------------
+Berkontribusi dalam NodeBB
+--------------------------
 
 .. toctree::
     :maxdepth: 2
@@ -76,7 +76,7 @@ Contributing to NodeBB
     contributing/style-guide
     modules/index
 
-Plugin System
+Sistem Plugin
 -------------
 
 .. toctree::
@@ -87,7 +87,7 @@ Plugin System
     plugins/settings
     plugins/i18n
 
-Widgets System
+sistem Widgets
 --------------
 
 .. toctree::
@@ -95,8 +95,8 @@ Widgets System
 
     widgets/create
 
-Theming Engine
---------------
+Mesin Perwajahan
+----------------
 
 .. toctree::
     :maxdepth: 2
@@ -105,32 +105,32 @@ Theming Engine
     themes/templates
 
 
-Developer's Resources
----------------------
+Sumber-sumber Pengembang
+------------------------
 
 .. toctree::
     :maxdepth: 2
 
     resources
 
-Helping out the NodeBB Project
-------------------------------
+Membantu Proyek NodeBB 
+----------------------
 
 .. toctree::
     :maxdepth: 2
 
     helping/index
 
-Troubleshooting / Help
-----------------------
+Mengatasi Masalah / Panduan
+---------------------------
 
 .. toctree::
     :maxdepth: 2
 
     help/help
 
-Indices and tables
-==================
+Indeks dan tabel
+================
 
 * :ref:`genindex`
 * :ref:`modindex`
